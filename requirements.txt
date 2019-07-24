@@ -10,6 +10,10 @@ chardet==3.0.4
 Click==7.0
 coverage==4.5.3
 cryptography==2.7
+<<<<<<< HEAD
+=======
+Django==1.6.2
+>>>>>>> 80c37cb0743cd5ebfbc897e54ab06fddbdeb851f
 docutils==0.14
 Flask==1.0.3
 idna==2.8
